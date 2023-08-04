@@ -1,0 +1,1 @@
+Write a Python script that automatically checks a given URL for updates and informs you when it identifies one.
